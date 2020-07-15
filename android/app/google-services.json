@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734673500455",
+    "firebase_url": "https://test1-256319.firebaseio.com",
+    "project_id": "test1-256319",
+    "storage_bucket": "test1-256319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734673500455:android:984a8a44ae8032dd6b1102",
+        "android_client_info": {
+          "package_name": "com.garv.imagestextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734673500455-jvnok7n2hakdu5ns4opihhtmk52lgn2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuQSGe12X-B8IfQPOsgE1suCBJx6_Pxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734673500455-jvnok7n2hakdu5ns4opihhtmk52lgn2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

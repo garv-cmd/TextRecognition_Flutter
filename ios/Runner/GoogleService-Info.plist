@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>734673500455-oh2epgq7u7c7ehvdmkomm9r58rr0utje.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734673500455-oh2epgq7u7c7ehvdmkomm9r58rr0utje</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ_hWsqGd_fhMXapqOzMPfqTjco8T7TaM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734673500455</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.garv.imagestextrecognition</string>
+	<key>PROJECT_ID</key>
+	<string>test1-256319</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test1-256319.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734673500455:ios:e48a21e1ae9c77e16b1102</string>
+	<key>DATABASE_URL</key>
+	<string>https://test1-256319.firebaseio.com</string>
+</dict>
+</plist>
